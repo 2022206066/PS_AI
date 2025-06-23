@@ -1,0 +1,1 @@
+# This project uses Google Colab's lazy imports for libraries. Should you wish to run the project in another environment, additional import commands will be necessary. It is on a todo list, but until changes have been made I'm making this PSA.
